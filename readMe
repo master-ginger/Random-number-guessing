@@ -1,0 +1,7 @@
+This code randomnly selects a number in a given range and the computer stors it
+then you are asked to guess a number
+if the number you guessed is the number stored in computer then you win
+else you will be notified if your number is less or greater
+Also, you have a limited number of guesses depending upon your range
+
+I have used logarithmic function to calculate the number of guesses
